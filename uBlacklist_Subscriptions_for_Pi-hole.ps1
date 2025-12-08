@@ -2,7 +2,7 @@ Start-Transcript -Path "$PSScriptRoot\transcript.txt" -Force
 
 # Imports the CSV file with the list of domain lists to process
 if (test-path "$PSScriptRoot\DomainLists.csv") {    
-    $DomainLists = Import-Csv -Path "$PSScriptRoot\DomainLists.csv"
+    $DomainLists = Import-Csv -Path "$PSScriptRoot\SubscriptionLists.csv"
 } else {
     Write-Host "[ERROR] DomainLists.csv not found in '$PSScriptRoot'" -ForegroundColor Red
     exit
