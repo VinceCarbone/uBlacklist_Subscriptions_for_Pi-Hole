@@ -1,0 +1,8 @@
+name,uri,filepath,pattern,replacefront,replaceback
+ublacklist-ai,https://raw.githubusercontent.com/HerXayah/ublacklist-ai/refs/heads/main/ublacklist-ai.txt,$PSScriptRoot\ublacklist-ai.txt,^\*\:\/\/(?:\*\.)?(.*?)\/.*$,,
+
+ublacklist-github-translation,https://raw.githubusercontent.com/arosh/ublacklist-github-translation/refs/heads/master/uBlacklist.txt,$PSScriptRoot\ublacklist-github-translation.txt,^\*\:\/\/(.*?)\/.*$,,
+
+ublacklist-stackoverflow-translation,https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/refs/heads/master/uBlacklist.txt,$PSScriptRoot\ublacklist-stackoverflow-translation.txt,^\*\:\/\/(?:\*\.)?(.*?)\/.*$,,
+
+BadWebsiteBlocklist,https://raw.githubusercontent.com/popcar2/BadWebsiteBlocklist/refs/heads/main/uBlacklist.txt,$PSScriptRoot\BadWebsiteBlocklist.txt,^\*\:\/\/(?:\*\.)?(.*?)\/.*$,,
