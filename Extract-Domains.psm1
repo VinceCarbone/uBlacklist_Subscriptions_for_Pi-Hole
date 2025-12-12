@@ -21,7 +21,7 @@ function ReadRemoteList {
     ) 
     # Reads the existing list from popcar2's repo
     try {
-        $response = Invoke-WebRequest -Uri $uri -ErrorAction Stop
+        $response = Invoke-WebRequest -Uri $uri -ErrorAction Stop -UseBasicParsing -ErrorAction Stop
         if ($response.statuscode -eq '200') {
             write-host "[OK] Invoke-WebRequest was successful" -ForegroundColor Green
         } else {
