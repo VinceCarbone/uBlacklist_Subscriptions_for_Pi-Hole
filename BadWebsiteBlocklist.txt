@@ -44,10 +44,12 @@ chatgbt.one
 chatgpt.org
 chatgptdemo.org
 chatopenai.de
+chefsresource.com
 cloudinary.com
 clrn.org
 codefinity.com
 codeparrot.ai
+coffeevogue.com
 commandexamples.com
 commandmasters.com
 comparitech.com
@@ -175,6 +177,7 @@ mazer.dev
 mcafee.com
 mediamister.com
 mediupdates.com
+meemawsrecipes.com
 mefmobile.org
 mejoress.com
 minitool.com
@@ -194,6 +197,7 @@ norton.com
 notionrealm.com
 novastarled.com
 numberanalytics.com
+nutri.it.com
 ofzenandcomputing.com
 olaf-hecker.de
 onexception.dev
@@ -234,6 +238,7 @@ simplified.com
 simplilearn.com
 skycoach.gg
 smallpdf.com
+smallusefultips.com
 socketloop.com
 softhandtech.com
 softonic.com
