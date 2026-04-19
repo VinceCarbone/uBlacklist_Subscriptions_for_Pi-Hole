@@ -34,6 +34,7 @@ blog.systoolsgroup.com
 bluestacks.com
 blurvideo.ai
 boostingfactory.com
+botmonster.com
 buzzflick.com
 cbsnews2.com
 cbsnewz.com
@@ -115,6 +116,7 @@ gg.deals
 grande-famille.de
 gravitywrite.com
 grepper.com
+grokipedia.com
 guides.ai
 hatchjs.com
 hdd-tool.com
@@ -175,6 +177,7 @@ linuxmadesimple.info
 linuxvox.com
 live2tech.com
 longshot.ai
+lushbinary.com
 madpenguin.org
 magai.co
 mainleaf.com
@@ -188,6 +191,7 @@ mediupdates.com
 meemawsrecipes.com
 mefmobile.org
 mejoress.com
+mindstudio.ai
 minitool.com
 movavi.com
 movavi.io
