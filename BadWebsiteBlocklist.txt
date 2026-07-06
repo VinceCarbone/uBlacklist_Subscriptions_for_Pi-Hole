@@ -50,6 +50,7 @@ chatgbt.one
 chatgpt.org
 chatgptdemo.org
 chatopenai.de
+checksub.com
 chefsresource.com
 cloudinary.com
 clrn.org
