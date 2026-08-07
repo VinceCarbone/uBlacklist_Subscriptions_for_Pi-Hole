@@ -68,6 +68,7 @@ cyber-fox.net
 cyberinfoblog.com
 cyberpost.co
 cybersecuritynews.com
+darazhost.com
 datanumen.com
 deepseekap.org
 deepseeksai.com
@@ -77,6 +78,7 @@ deepseekv3.tech
 dev2qa.com
 devasking.com
 devsne.vn
+digicert.com
 digitalocean.com
 dinosaur.org
 diskgenius.com
@@ -117,11 +119,13 @@ geminiai.ai
 getafollower.com
 getgenie.ai
 gg.deals
+go.lightnode.com
 grande-famille.de
 gravitywrite.com
 grepper.com
 grokipedia.com
 guides.ai
+halo-mario.com
 hatchjs.com
 hdd-tool.com
 hddfaqs.com
@@ -218,8 +222,10 @@ novastarled.com
 numberanalytics.com
 nutri.it.com
 ofzenandcomputing.com
+ohidur.com
 olaf-hecker.de
 onexception.dev
+onidel.com
 opensourceforu.com
 optimalproducts.com
 orca-slicer.com
@@ -234,6 +240,7 @@ pixcap.com
 playbite.com
 privacytools.io
 privateproxyguide.com
+protonvpn.com
 pupuweb.com
 quso.ai
 rav.ai
@@ -243,6 +250,7 @@ releasedate.info
 researchsnipers.com
 resilio.com
 resources.imagine.io
+revouninstaller.com
 riverside.fm
 robots.net
 safetydetectives.com
@@ -257,9 +265,11 @@ shopify.com
 sider.ai
 simplified.com
 simplilearn.com
+simplyblock.io
 skycoach.gg
 smallpdf.com
 smallusefultips.com
+soax.com
 socketloop.com
 softhandtech.com
 softonic.com
@@ -275,6 +285,7 @@ steelseries.com
 stellarinfo.com
 stepofweb.com
 supportyourtech.com
+surfercloud.com
 symboltools.com
 systoolsgroup.com
 systweak.com
