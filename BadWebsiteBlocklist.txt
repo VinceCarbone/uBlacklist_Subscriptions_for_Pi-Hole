@@ -17,10 +17,12 @@ audiolgy.com
 avaide.com
 avg.com
 avira.com
+bandnotify.com
 basedlabs.ai
 batteryspotlight.com
 bbcsportss.co.uk
 befitnatic.com
+besthub.dev
 betanet.net
 bettertechtips.com
 bitdegree.org
@@ -125,6 +127,7 @@ gravitywrite.com
 grepper.com
 grokipedia.com
 guides.ai
+hagezi.com
 halo-mario.com
 hatchjs.com
 hdd-tool.com
@@ -138,6 +141,7 @@ ibuypower.com
 ifunia.com
 iliputer.com
 imobie.com
+infozaem.com
 ionos.bg
 ionos.blog
 ionos.co.uk
@@ -152,6 +156,7 @@ ionos.ro
 ionos.sk
 istocks.club
 isunshare.com
+itarian.com
 itechhacks.com
 ithy.com
 itigic.com
@@ -182,8 +187,10 @@ lifetips.alibaba.com
 lightgungamer.com
 lindy.ai
 linoxide.com
+linux.com
 linuxcapable.com
 linuxmadesimple.info
+linuxsecurity.com
 linuxvox.com
 live2tech.com
 longshot.ai
@@ -240,6 +247,7 @@ pixcap.com
 playbite.com
 privacytools.io
 privateproxyguide.com
+protonge.com
 protonvpn.com
 pupuweb.com
 quso.ai
@@ -307,6 +315,7 @@ toxigon.com
 trycatchdebug.net
 turboboost.gg
 tweaklibrary.com
+uacred.com
 ubackup.com
 umatechnology.org
 veepn.com
