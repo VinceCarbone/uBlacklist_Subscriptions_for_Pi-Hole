@@ -31,6 +31,7 @@ blockchain.news
 blog.avast.com
 blog.cdkeys.com
 blog.eklipse.gg
+blog.incogni.com
 blog.limewire.com
 blog.neuronvm.com
 blog.systoolsgroup.com
@@ -40,6 +41,7 @@ boostingfactory.com
 botmonster.com
 buzzflick.com
 byteiota.com
+cambridgeanalytica.org
 cbsnews2.com
 cbsnewz.com
 ccleaner.com
@@ -56,17 +58,20 @@ checksub.com
 chefsresource.com
 cloudinary.com
 clrn.org
+CMU.fr
 codefinity.com
 codeparrot.ai
 coffeevogue.com
 commandexamples.com
 commandmasters.com
 comparitech.com
+convertwithwave.com
 copilot.live
 copyprogramming.com
 cruiseship.cloud
 csgocaptain.com
 cyber-fox.net
+cyberghostvpn.com
 cyberinfoblog.com
 cyberpost.co
 cybersecuritynews.com
@@ -103,6 +108,7 @@ eloking.com
 emarketinghacks.com
 espn24.co.uk
 exchangetuts.com
+expressvpn.com
 farmingdale-observer.com
 fetch.com
 filecr.com
@@ -115,6 +121,7 @@ gameslearningsociety.org
 gametierlist.com
 gbhackers.com
 gbtimes.com
+geeky-gadgets.com
 gemini-free.com
 gemini.talkai.info
 geminiai.ai
@@ -122,6 +129,7 @@ getafollower.com
 getgenie.ai
 gg.deals
 go.lightnode.com
+gowavebrowser.com
 grande-famille.de
 gravitywrite.com
 grepper.com
@@ -132,8 +140,10 @@ halo-mario.com
 hatchjs.com
 hdd-tool.com
 hddfaqs.com
+heimdalsecurity.com
 help.simplified.com
 hetmanrecovery.com
+historyinpolitics.org
 hix.ai
 howtoapps.com
 i5apps.com
@@ -179,9 +189,13 @@ kaspersky.fr
 kaspersky.it
 kaspersky.nl
 kaspersky.ru
+kernel-internals.org
 kinsta.com
 kitchendemy.com
+koiknives.com
 kommandotech.com
+leravi.org
+lidarr.org
 lifeincoding.com
 lifetips.alibaba.com
 lightgungamer.com
@@ -189,6 +203,7 @@ lindy.ai
 linoxide.com
 linux.com
 linuxcapable.com
+linuxconfig.org
 linuxmadesimple.info
 linuxsecurity.com
 linuxvox.com
@@ -270,6 +285,7 @@ shell-tips.com
 shiftychevre.com
 shokz.com
 shopify.com
+shunauto.com
 sider.ai
 simplified.com
 simplilearn.com
@@ -294,6 +310,7 @@ stellarinfo.com
 stepofweb.com
 supportyourtech.com
 surfercloud.com
+surfshark.com
 symboltools.com
 systoolsgroup.com
 systweak.com
@@ -319,6 +336,7 @@ uacred.com
 ubackup.com
 umatechnology.org
 veepn.com
+vibewire.com.au
 vidyo.ai
 virtualizare.net
 visao.app
@@ -326,6 +344,8 @@ visme.co
 vlc-download.de
 vlc.de
 w3schools.tech
+wavebrowser.co
+wavebrowser.com
 webdevtutor.net
 webflow.com
 weetechsolution.com
